@@ -1,2 +1,2 @@
-# netflixlanding
-Created with CodeSandbox
+Vue version of Netflix landing page from.....
+[Full stack react](https://www.fullstackreact.com/react-daily-ui/003-landing-page/)
